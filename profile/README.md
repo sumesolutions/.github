@@ -9,7 +9,7 @@ engineers who are passionate about education.
 ### You may also be interested in
 
 - Sumé LMS ([GitHub](https://github.com/sumelms), [Website](https://sumelms.com/))
-- Sumé Edu ([GitHub](https://github.com/sumelms))
+- Sumé Edu ([GitHub](https://github.com/sumeedu))
 
 <!--
 
